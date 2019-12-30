@@ -50,3 +50,14 @@ body
     background: white;
     padding: 1em;
 }
+
+#footer
+{
+background: white;
+text-align: center;
+}
+
+#letter
+{
+  color: green;
+}
